@@ -4,7 +4,7 @@
 
 ## Description
 
-A Kanban Board built using JavaScript, HTML, and CSS. Allows the user to add, delete, and edit the tasks on their board. The user can also easily move tasks between categories by dragging and dropping them. Lastly, their board is automatically saved into the browsers local storage.
+A Kanban Board built using JavaScript, HTML, and CSS. Allows the user to add, delete, and edit the tasks on their board. The user can also easily move tasks between categories by dragging and dropping them. Lastly, their board is automatically saved into the browser's local storage.
 
 ## Languages & Technologies
 
